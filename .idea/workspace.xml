@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9de179e8-0bca-4c09-a320-1192bc72a020" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pet_shop.rb" afterPath="$PROJECT_DIR$/pet_shop.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/specs/pet_shop_spec.rb" afterPath="$PROJECT_DIR$/specs/pet_shop_spec.rb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,8 +24,8 @@
       <file leaf-file-name="pet_shop_spec.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/specs/pet_shop_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="163" column="52" lean-forward="true" selection-start-line="163" selection-start-column="6" selection-end-line="163" selection-end-column="52" />
+            <state relative-caret-position="40">
+              <caret line="171" column="42" lean-forward="true" selection-start-line="171" selection-start-column="6" selection-end-line="171" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -33,8 +34,8 @@
       <file leaf-file-name="pet_shop.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pet_shop.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="542">
-              <caret line="61" column="13" lean-forward="false" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
+            <state relative-caret-position="590">
+              <caret line="73" column="27" lean-forward="false" selection-start-line="73" selection-start-column="27" selection-end-line="73" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -59,8 +60,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/pet_shop.rb" />
         <option value="$PROJECT_DIR$/specs/pet_shop_spec.rb" />
+        <option value="$PROJECT_DIR$/pet_shop.rb" />
       </list>
     </option>
   </component>
@@ -138,12 +139,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1506678646527</updated>
-      <workItem from="1506678648357" duration="5446000" />
+      <workItem from="1506678648357" duration="6098000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5446000" />
+    <option name="totallyTimeSpent" value="6098000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1173" extended-state="6" />
@@ -189,16 +190,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pet_shop.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="542">
-          <caret line="61" column="13" lean-forward="false" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
+        <state relative-caret-position="590">
+          <caret line="73" column="27" lean-forward="false" selection-start-line="73" selection-start-column="27" selection-end-line="73" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/specs/pet_shop_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="163" column="52" lean-forward="true" selection-start-line="163" selection-start-column="6" selection-end-line="163" selection-end-column="52" />
+        <state relative-caret-position="40">
+          <caret line="171" column="42" lean-forward="true" selection-start-line="171" selection-start-column="6" selection-end-line="171" selection-end-column="42" />
           <folding />
         </state>
       </provider>
