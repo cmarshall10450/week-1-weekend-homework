@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9de179e8-0bca-4c09-a320-1192bc72a020" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pet_shop.rb" afterPath="$PROJECT_DIR$/pet_shop.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/specs/pet_shop_spec.rb" afterPath="$PROJECT_DIR$/specs/pet_shop_spec.rb" />
     </list>
@@ -20,21 +21,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pet_shop_spec.rb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pet_shop_spec.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/specs/pet_shop_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="386">
-              <caret line="125" column="5" lean-forward="true" selection-start-line="125" selection-start-column="5" selection-end-line="125" selection-end-column="5" />
+            <state relative-caret-position="228">
+              <caret line="127" column="40" lean-forward="true" selection-start-line="127" selection-start-column="6" selection-end-line="127" selection-end-column="40" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pet_shop.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pet_shop.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pet_shop.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="734">
-              <caret line="37" column="36" lean-forward="false" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
+            <state relative-caret-position="782">
+              <caret line="40" column="12" lean-forward="false" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -114,7 +115,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/chris/CodeClan/homeworks/week-01/weekend_homework/pet_shop.rb" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/chris/CodeClan/homeworks/week-01/weekend_homework/specs/pet_shop_spec.rb" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -138,12 +139,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1506678646527</updated>
-      <workItem from="1506678648357" duration="3011000" />
+      <workItem from="1506678648357" duration="3148000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3011000" />
+    <option name="totallyTimeSpent" value="3148000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1173" extended-state="6" />
@@ -187,18 +188,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/specs/pet_shop_spec.rb">
+    <entry file="file://$PROJECT_DIR$/pet_shop.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="125" column="5" lean-forward="true" selection-start-line="125" selection-start-column="5" selection-end-line="125" selection-end-column="5" />
+        <state relative-caret-position="782">
+          <caret line="40" column="12" lean-forward="false" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pet_shop.rb">
+    <entry file="file://$PROJECT_DIR$/specs/pet_shop_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="734">
-          <caret line="37" column="36" lean-forward="false" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
+        <state relative-caret-position="228">
+          <caret line="127" column="40" lean-forward="true" selection-start-line="127" selection-start-column="6" selection-end-line="127" selection-end-column="40" />
           <folding />
         </state>
       </provider>
