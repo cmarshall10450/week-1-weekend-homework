@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9de179e8-0bca-4c09-a320-1192bc72a020" name="Default" comment="" />
+    <list default="true" id="9de179e8-0bca-4c09-a320-1192bc72a020" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/specs/pet_shop_spec.rb" afterPath="$PROJECT_DIR$/specs/pet_shop_spec.rb" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +23,8 @@
       <file leaf-file-name="pet_shop_spec.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/specs/pet_shop_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="112" column="35" lean-forward="true" selection-start-line="112" selection-start-column="6" selection-end-line="112" selection-end-column="35" />
+            <state relative-caret-position="218">
+              <caret line="117" column="39" lean-forward="true" selection-start-line="117" selection-start-column="6" selection-end-line="117" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -56,8 +59,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/specs/pet_shop_spec.rb" />
         <option value="$PROJECT_DIR$/pet_shop.rb" />
+        <option value="$PROJECT_DIR$/specs/pet_shop_spec.rb" />
       </list>
     </option>
   </component>
@@ -135,12 +138,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1506678646527</updated>
-      <workItem from="1506678648357" duration="2811000" />
+      <workItem from="1506678648357" duration="2867000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2811000" />
+    <option name="totallyTimeSpent" value="2867000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1173" extended-state="6" />
@@ -194,8 +197,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/specs/pet_shop_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="112" column="35" lean-forward="true" selection-start-line="112" selection-start-column="6" selection-end-line="112" selection-end-column="35" />
+        <state relative-caret-position="218">
+          <caret line="117" column="39" lean-forward="true" selection-start-line="117" selection-start-column="6" selection-end-line="117" selection-end-column="39" />
           <folding />
         </state>
       </provider>
