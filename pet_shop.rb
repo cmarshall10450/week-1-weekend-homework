@@ -50,3 +50,8 @@ end
 def add_pet_to_stock(shop, pet)
 	shop[:pets] << pet
 end
+
+def customer_pet_count(customer)
+	return customer[:pets].length
+end
+
