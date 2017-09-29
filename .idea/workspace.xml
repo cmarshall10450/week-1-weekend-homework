@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9de179e8-0bca-4c09-a320-1192bc72a020" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pet_shop.rb" afterPath="$PROJECT_DIR$/pet_shop.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/specs/pet_shop_spec.rb" afterPath="$PROJECT_DIR$/specs/pet_shop_spec.rb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,20 +19,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pet_shop_spec.rb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pet_shop_spec.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/specs/pet_shop_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="105" column="5" lean-forward="true" selection-start-line="105" selection-start-column="5" selection-end-line="105" selection-end-column="5" />
+            <state relative-caret-position="399">
+              <caret line="110" column="5" lean-forward="true" selection-start-line="110" selection-start-column="5" selection-end-line="110" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pet_shop.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pet_shop.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pet_shop.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="864">
+            <state relative-caret-position="734">
               <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
               <folding />
             </state>
@@ -59,8 +58,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/specs/pet_shop_spec.rb" />
         <option value="$PROJECT_DIR$/pet_shop.rb" />
+        <option value="$PROJECT_DIR$/specs/pet_shop_spec.rb" />
       </list>
     </option>
   </component>
@@ -137,12 +136,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1506678646527</updated>
-      <workItem from="1506678648357" duration="2166000" />
+      <workItem from="1506678648357" duration="2290000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2166000" />
+    <option name="totallyTimeSpent" value="2290000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1173" extended-state="6" />
@@ -186,18 +185,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/specs/pet_shop_spec.rb">
+    <entry file="file://$PROJECT_DIR$/pet_shop.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="105" column="5" lean-forward="true" selection-start-line="105" selection-start-column="5" selection-end-line="105" selection-end-column="5" />
+        <state relative-caret-position="734">
+          <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pet_shop.rb">
+    <entry file="file://$PROJECT_DIR$/specs/pet_shop_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+        <state relative-caret-position="399">
+          <caret line="110" column="5" lean-forward="true" selection-start-line="110" selection-start-column="5" selection-end-line="110" selection-end-column="5" />
           <folding />
         </state>
       </provider>
